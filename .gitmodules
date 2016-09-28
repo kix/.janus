@@ -1,0 +1,6 @@
+[submodule "vim-powerline"]
+	path = vim-powerline
+	url = git@github.com:Lokaltog/vim-powerline.git
+[submodule "vim-phpunitqf"]
+	path = vim-phpunitqf
+	url = git@github.com:joonty/vim-phpunitqf.git
